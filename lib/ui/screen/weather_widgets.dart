@@ -333,4 +333,10 @@ const List<Forecast> thisWeek = [
     day: 'Wednesday',
     description: 'Partly cloudy. High 90F. Winds W at 5 to 10 mph.',
   ),
+  Forecast(
+    weather: Weather.cold,
+    temp: 10,
+    day: 'Thursday',
+    description: 'Partly cloudy. High 90F. Winds W at 5 to 10 mph.',
+  ),
 ];
